@@ -1,0 +1,14 @@
+streamlit
+pymongo
+redis
+google-generativeai
+requests
+python-dotenv
+pandas
+plotly
+schedule
+linkedin-api
+python-linkedin-v2
+bcrypt
+jwt
+pydantic
