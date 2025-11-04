@@ -101,6 +101,15 @@ Application Settings
 SECRET_KEY=your_secret_key_here
 
 ### Running the app
+**start the redis server :**
+*Open WSL and then type 
+sudo service redis-server start,
+redis-cli,
+ping*
+
+**Start the mongoDB server**
+*In vs code start connection to mongoDB server*
+
 **In your terminal type streamlit run app.py**
 
 **made by Yash Kahalkar with  💻**
